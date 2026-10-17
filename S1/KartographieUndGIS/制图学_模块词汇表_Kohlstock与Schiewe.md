@@ -94,44 +94,44 @@
 
 主线：地球不是规则球体 → 选定参考面 → 建立位置和高程的共同基准。
 
-| 级别 | 德语词／表达 | 本书语境中的中文义 | 构词拆解／记忆线索 | PDF 页 |
-| --- | --- | --- | --- | --- |
-| A | die Bezugsfläche / die Ersatzfläche | 测量与计算参照的表面／用来近似真实地表的简化表面 | Bezug 参照／Ersatz 替代 + Fläche 表面 | K2·1 |
-| A | das Rotationsellipsoid | 椭圆绕轴旋转形成的旋转椭球 | Rotation 旋转 + Ellipsoid 椭球 | K2·3 |
-| A | die Abplattung | 椭球相对球体在两极方向压扁的程度 | abplatten 压扁 → -ung；platt 扁平的 | K2·3 |
-| A | die Halbachse | 椭圆或椭球主轴长度的一半 | halb 一半 + Achse 轴 | S·151 |
-| A | das Geoid | 与平均海面近似重合并延伸至陆地下方的重力等位面 | geo- 地球 + -oid 类似……的形体；物理参考面 | K2·3–4 |
-| A | die Äquipotentialfläche | 重力位处处相等的表面 | äqui- 相等 + Potential 位势 + Fläche 表面 | K2·4 |
-| A | die Geoidundulation / die Geoidhöhe | 大地水准面与参考椭球之间的高度差 | Geoid 大地水准面 + Undulation 起伏／Höhe 高度 | K2·4 |
-| A | das Schwerepotential | 单位质量在重力场中的位势 | Schwere 重力 + Potential 位势；也写 Schwerepotenzial | K2·4；S·149 |
-| A | die Lotrichtung / die Lotlinie | 当地重力方向／沿重力方向延伸的铅垂线 | Lot 铅垂 + Richtung 方向／Linie 线 | K2·5；S·149 |
-| A | die Flächennormale | 垂直于某点局部表面的法线 | Fläche 表面 + Normale 法线 | K2·5 |
-| A | geozentrisch / topozentrisch (Adj.) | 以地心为原点的／以地表某地点为原点的 | geo- 地球／topo- 地点 + zentrisch 以……为中心 | S·146–147；S·155 |
-| A | erdfest (Adj.) | 与地球共同转动、相对于地球固定的 | Erde 地球 + fest 固定 | S·147 |
-| A | rechtshändig (Adj.) | 按右手规则确定三维坐标轴方向的 | recht 右 + Hand 手 + -ig | S·147 |
-| A | das Referenzellipsoid | 用于定位或制图的约定椭球体 | Referenz 参照 + Ellipsoid 椭球 | K2·6 |
-| A | das Lagebezugssystem / das Höhenbezugssystem | 平面位置参考系统／高程参考系统 | Lage 位置／Höhe 高程 + Bezug 参照 + System | K2·5–8 |
-| A | das geodätische Datum | 确定参考椭球的位置、方向等的测量基准 | geodätisch 大地测量的 + Datum 基准；不是日期 | K2·6；S·156 |
-| A | der Referenzrahmen | 通过具有确定坐标的点等实现参考系统的框架 | Referenz 参照 + Rahmen 框架 | S·159 |
-| A | der Fundamentalpunkt | 历史测量基准网中起基础定位作用的原点 | fundamental 基础的 + Punkt 点 | K2·7 |
-| A | der Lagefestpunkt / der Höhenfestpunkt | 位置已知的控制点／高程已知的控制点 | Lage 位置／Höhe 高程 + fest 固定 + Punkt 点 | K2·7–8 |
-| A | die Vermarkung | 在实地用石标、标钉等永久标识测量点 | vermarken 设置测量标志 → -ung；不是 Vermarktung 营销 | K2·7 |
-| A | das Festpunktfeld | 覆盖一定地区的测量控制点体系 | fest 固定 + Punkt 点 + Feld 网状分布范围 | K2·7 |
-| A | die Triangulation | 通过三角网及角度等测量确定位置的三角测量 | tri- 三 + angul- 角 + -ation；此处测量学含义 | K2·3 |
-| A | die Gradmessung | 测量一定经纬度角对应地表弧长以推求地球尺度 | Grad 角度单位 + Messung 测量 | K2·3 |
-| A | das Nivellement | 通过水准测量确定点间高差 | 词族 nivellieren 测高差／找平；整体记术语 | K2·9 |
-| A | die Nivellierlatte | 配合水准仪读取高差的标尺 | nivellieren 水准测量 + Latte 标尺 | K2·9 |
-| B | die Visur | 仪器的瞄准或视准方向 | 外来词，整体记；此处不是一般“风景视野” | K2·9 |
-| A | der Wechselpunkt | 连续水准测量中衔接前后测站的转点 | Wechsel 更换／转接 + Punkt 点 | K2·9 |
-| A | die Normalhöhe / die orthometrische Höhe | 相对准大地水准面的正常高／相对大地水准面的正高 | normal 约定正常重力体系；orthometrisch 整体记术语；均属重力相关高程 | K2·13；S·150–151 |
-| A | die ellipsoidische Höhe | 沿椭球法线测得的点至参考椭球的高程 | Ellipsoid 椭球 → ellipsoidisch + Höhe | S·150–154 |
-| A | das Quasigeoid | 正常高系统使用的参考面 | quasi- 类似但不完全相同 + Geoid | K2·13 |
-| B | das Normalhöhennull | 德国正常高体系中的高程零点基准名称 | Normalhöhe 正常高 + Null 零点；缩写 NHN | K2·8 |
-| A | die Schwereanomalie | 实际重力与选定正常重力值的差异 | Schwere 重力 + Anomalie 异常 | S·150 |
-| B | die Gauß-Schmiegekugel | 在局部近似参考椭球曲率的球体 | Gauß 人名 + sich anschmiegen 贴合 + Kugel 球 | S·154 |
-| B | der Querkrümmungshalbmesser / der Meridiankrümmungshalbmesser | 卯酉圈曲率半径／子午圈曲率半径 | quer 横向／Meridian 子午线 + Krümmung 曲率 + Halbmesser 半径 | S·200 |
-| A | das Bogenmaß | 以弧长与半径之比表示角度的弧度制 | Bogen 弧 + Maß 度量 | S·161 |
-| B | sexagesimal (Adj.) | 六十进制的，如度分秒表示 | 词源联想六十；整体记，与十进制对照 | K9·19 |
+| 级别  | 德语词／表达                                                        | 本书语境中的中文义                | 构词拆解／记忆线索                                          | PDF 页           |
+| --- | ------------------------------------------------------------- | ------------------------ | -------------------------------------------------- | --------------- |
+| A   | die Bezugsfläche / die Ersatzfläche                           | 测量与计算参照的表面／用来近似真实地表的简化表面 | Bezug 参照／Ersatz 替代 + Fläche 表面                     | K2·1            |
+| A   | das Rotationsellipsoid                                        | 椭圆绕轴旋转形成的旋转椭球            | Rotation 旋转 + Ellipsoid 椭球                         | K2·3            |
+| A   | die Abplattung                                                | 椭球相对球体在两极方向压扁的程度         | abplatten 压扁 → -ung；platt 扁平的                      | K2·3            |
+| A   | die Halbachse                                                 | 椭圆或椭球主轴长度的一半             | halb 一半 + Achse 轴                                  | S·151           |
+| A   | das Geoid                                                     | 与平均海面近似重合并延伸至陆地下方的重力等位面  | geo- 地球 + -oid 类似……的形体；物理参考面                       | K2·3–4          |
+| A   | die Äquipotentialfläche                                       | 重力位处处相等的表面               | äqui- 相等 + Potential 位势 + Fläche 表面                | K2·4            |
+| A   | die Geoidundulation / die Geoidhöhe                           | 大地水准面与参考椭球之间的高度差         | Geoid 大地水准面 + Undulation 起伏／Höhe 高度                | K2·4            |
+| A   | das Schwerepotential                                          | 单位质量在重力场中的位势             | Schwere 重力 + Potential 位势；也写 Schwerepotenzial      | K2·4；S·149      |
+| A   | die Lotrichtung / die Lotlinie                                | 当地重力方向／沿重力方向延伸的铅垂线       | Lot 铅垂 + Richtung 方向／Linie 线                       | K2·5；S·149      |
+| A   | die Flächennormale                                            | 垂直于某点局部表面的法线             | Fläche 表面 + Normale 法线                             | K2·5            |
+| A   | geozentrisch / topozentrisch (Adj.)                           | 以地心为原点的／以地表某地点为原点的       | geo- 地球／topo- 地点 + zentrisch 以……为中心                | S·146–147；S·155 |
+| A   | erdfest (Adj.)                                                | 与地球共同转动、相对于地球固定的         | Erde 地球 + fest 固定                                  | S·147           |
+| A   | rechtshändig (Adj.)                                           | 按右手规则确定三维坐标轴方向的          | recht 右 + Hand 手 + -ig                             | S·147           |
+| A   | das Referenzellipsoid                                         | 用于定位或制图的约定椭球体            | Referenz 参照 + Ellipsoid 椭球                         | K2·6            |
+| A   | das Lagebezugssystem / das Höhenbezugssystem                  | 平面位置参考系统／高程参考系统          | Lage 位置／Höhe 高程 + Bezug 参照 + System                | K2·5–8          |
+| A   | das geodätische Datum                                         | 确定参考椭球的位置、方向等的测量基准       | geodätisch 大地测量的 + Datum 基准；不是日期                   | K2·6；S·156      |
+| A   | der Referenzrahmen                                            | 通过具有确定坐标的点等实现参考系统的框架     | Referenz 参照 + Rahmen 框架                            | S·159           |
+| A   | der Fundamentalpunkt                                          | 历史测量基准网中起基础定位作用的原点       | fundamental 基础的 + Punkt 点                          | K2·7            |
+| A   | der Lagefestpunkt / der Höhenfestpunkt                        | 位置已知的控制点／高程已知的控制点        | Lage 位置／Höhe 高程 + fest 固定 + Punkt 点                | K2·7–8          |
+| A   | die Vermarkung                                                | 在实地用石标、标钉等永久标识测量点        | vermarken 设置测量标志 → -ung；不是 Vermarktung 营销          | K2·7            |
+| A   | das Festpunktfeld                                             | 覆盖一定地区的测量控制点体系           | fest 固定 + Punkt 点 + Feld 网状分布范围                    | K2·7            |
+| A   | die Triangulation                                             | 通过三角网及角度等测量确定位置的三角测量     | tri- 三 + angul- 角 + -ation；此处测量学含义                 | K2·3            |
+| A   | die Gradmessung                                               | 测量一定经纬度角对应地表弧长以推求地球尺度    | Grad 角度单位 + Messung 测量                             | K2·3            |
+| A   | das Nivellement                                               | 通过水准测量确定点间高差             | 词族 nivellieren 测高差／找平；整体记术语                        | K2·9            |
+| A   | die Nivellierlatte                                            | 配合水准仪读取高差的标尺             | nivellieren 水准测量 + Latte 标尺                        | K2·9            |
+| B   | die Visur                                                     | 仪器的瞄准或视准方向               | 外来词，整体记；此处不是一般“风景视野”                               | K2·9            |
+| A   | der Wechselpunkt                                              | 连续水准测量中衔接前后测站的转点         | Wechsel 更换／转接 + Punkt 点                            | K2·9            |
+| A   | die Normalhöhe / die orthometrische Höhe                      | 相对准大地水准面的正常高／相对大地水准面的正高  | normal 约定正常重力体系；orthometrisch 整体记术语；均属重力相关高程       | K2·13；S·150–151 |
+| A   | die ellipsoidische Höhe                                       | 沿椭球法线测得的点至参考椭球的高程        | Ellipsoid 椭球 → ellipsoidisch + Höhe                | S·150–154       |
+| A   | das Quasigeoid                                                | 正常高系统使用的参考面              | quasi- 类似但不完全相同 + Geoid                            | K2·13           |
+| B   | das Normalhöhennull                                           | 德国正常高体系中的高程零点基准名称        | Normalhöhe 正常高 + Null 零点；缩写 NHN                    | K2·8            |
+| A   | die Schwereanomalie                                           | 实际重力与选定正常重力值的差异          | Schwere 重力 + Anomalie 异常                           | S·150           |
+| B   | die Gauß-Schmiegekugel                                        | 在局部近似参考椭球曲率的球体           | Gauß 人名 + sich anschmiegen 贴合 + Kugel 球            | S·154           |
+| B   | der Querkrümmungshalbmesser / der Meridiankrümmungshalbmesser | 卯酉圈曲率半径／子午圈曲率半径          | quer 横向／Meridian 子午线 + Krümmung 曲率 + Halbmesser 半径 | S·200           |
+| A   | das Bogenmaß                                                  | 以弧长与半径之比表示角度的弧度制         | Bogen 弧 + Maß 度量                                   | S·161           |
+| B   | sexagesimal (Adj.)                                            | 六十进制的，如度分秒表示             | 词源联想六十；整体记，与十进制对照                                  | K9·19           |
 
 <a id="m03"></a>
 
@@ -491,29 +491,29 @@
 
 主线：比例尺变小时，要筛选和重组内容，不能只把所有东西等比例缩小。
 
-| 级别 | 德语词／表达 | 本书语境中的中文义 | 构词拆解／记忆线索 | PDF 页 |
-| --- | --- | --- | --- | --- |
-| A | die kartographische Generalisierung | 按比例尺、用途和可读性要求概括地理信息的制图综合 | generalisieren 概括 + -ung；这里不只是逻辑上的“泛化” | S·330；K4·5–6 |
-| A | die Erfassungsgeneralisierung / die Objektgeneralisierung | 采集时的取舍概括／对象模型层面的综合 | Erfassung 采集／Objekt 对象 + Generalisierung | S·332；S·334 |
-| A | die Granularität | 对象或信息被划分和表达的精细程度 | granul- 颗粒 + -arität 性质；联想“信息颗粒大小” | S·331 |
-| A | multiskalig (Adj.) / die Multi-Skalen-Datenbank | 跨多个尺度的／保存多个尺度表示的数据库 | multi- 多 + Skala 尺度 + -ig；Daten + Bank 数据库 | S·333；S·341 |
-| A | die Raumtreue | 综合后仍忠实保留重要空间关系或格局的性质 | Raum 空间 + Treue 忠实；不要求每个小细节都保留 | S·333；S·343 |
-| A | der Geometriewechsel / der Zerfall | 对象几何类型的改变／本书中降为更低维几何的综合操作 | Geometrie 几何 + Wechsel 变换；zerfallen 分解 → Zerfall，如面改为线或点 | S·339–340 |
-| A | die Verdrängung / der Verdrängungskorridor | 为避免冲突而移动图形／实施位置偏移的影响带 | verdrängen 挤开 + -ung；Korridor 走廊、带状区域 | S·338–339 |
-| A | die Verbreiterung | 扩大线状符号宽度，以保证可见或突出其重要性 | ver- + breit 宽 + -er- + -ung；如道路符号增宽 | S·336；S·338 |
-| A | die Hervorhebung | 通过大小、颜色等突出重要地理对象的综合操作 | hervor- 向前、显出 + heben 提起 + -ung | S·337 |
-| A | die Zusammenfassung | 将多个相邻或同类对象合并表达的综合操作 | zusammen 一起 + fassen 收拢 + -ung；此处不指写摘要 | S·339 |
-| A | die Linienvereinfachung / die Linienglättung | 减少线的构成点以简化形状／减轻线的尖角与锯齿 | Linie + Vereinfachung 简化／Glättung 平滑；两者目的和操作并不完全相同 | S·344–346 |
-| A | die Polylinie / der Stützpunkt | 由多条线段连接的折线／定义几何形状的控制顶点 | poly- 多 + Linie；stützen 支撑 + Punkt | S·344；K4·31 |
-| A | die Ausdünnung | 按规则减少点或对象的数量 | aus- 去出 + dünn 稀疏 + -ung；留下较少但有代表性的对象 | S·344 |
-| B | der Douglas-Peucker-Algorithmus | 依据点到近似线段的偏离程度简化折线的算法 | Douglas、Peucker 为人名 + Algorithmus 算法 | S·335；S·344–345 |
-| B | der Spline | 用于构造平滑曲线的一类函数或曲线 | 英语术语，原意与柔性样条有关；不拆成德语词根 | S·344 |
-| A | der Ausgangsmaßstab / der Zielmaßstab | 综合前的原始比例尺／希望生成的目标比例尺 | Ausgang 起始／Ziel 目标 + Maßstab | S·341 |
-| B | das Auswahlkriterium nach Töpfer | 根据原始与目标比例尺估算应保留对象数量的经验准则 | Auswahl 选取 + Kriterium 标准；Töpfer 人名 | S·341 |
-| A | die Zeichenvorschrift / der Zeichenschlüssel | 规定地图符号及制图规则的规范／符号说明体系 | Zeichen 符号 + Vorschrift 规定／Schlüssel 对照、解读规则 | S·340 |
-| A | regelbasiert / constraint-basiert / agentenbasiert (Adj.) | 基于规则／约束条件／自主对象代理的 | Regel 规则；英语 constraint 约束；Agent 此处为自主软件对象；+ basiert 基于 | S·342 |
-| A | die Nebenbedingung / die Zwangsbedingung | 自动综合过程中必须满足的附加条件或约束 | neben 附加／Zwang 强制 + Bedingung 条件 | S·342 |
-| B | die Gebäude-Generalisierung / die Siedlungsgeneralisierung | 建筑物轮廓的综合／聚落整体形态的综合 | Gebäude 建筑／Siedlung 聚落 + Generalisierung；正文也写 Generalisierung von Gebäuden／Siedlungen | S·346–348；S·399；S·403 |
+| 级别  | 德语词／表达                                                     | 本书语境中的中文义                 | 构词拆解／记忆线索                                                                             | PDF 页                 |
+| --- | ---------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------- | --------------------- |
+| A   | die kartographische Generalisierung                        | 按比例尺、用途和可读性要求概括地理信息的制图综合  | generalisieren 概括 + -ung；这里不只是逻辑上的“泛化”                                                | S·330；K4·5–6          |
+| A   | die Erfassungsgeneralisierung / die Objektgeneralisierung  | 采集时的取舍概括／对象模型层面的综合        | Erfassung 采集／Objekt 对象 + Generalisierung                                              | S·332；S·334           |
+| A   | die Granularität                                           | 对象或信息被划分和表达的精细程度          | granul- 颗粒 + -arität 性质；联想“信息颗粒大小”                                                    | S·331                 |
+| A   | multiskalig (Adj.) / die Multi-Skalen-Datenbank            | 跨多个尺度的／保存多个尺度表示的数据库       | multi- 多 + Skala 尺度 + -ig；Daten + Bank 数据库                                            | S·333；S·341           |
+| A   | die Raumtreue                                              | 综合后仍忠实保留重要空间关系或格局的性质      | Raum 空间 + Treue 忠实；不要求每个小细节都保留                                                        | S·333；S·343           |
+| A   | der Geometriewechsel / der Zerfall                         | 对象几何类型的改变／本书中降为更低维几何的综合操作 | Geometrie 几何 + Wechsel 变换；zerfallen 分解 → Zerfall，如面改为线或点                              | S·339–340             |
+| A   | die Verdrängung / der Verdrängungskorridor                 | 为避免冲突而移动图形／实施位置偏移的影响带     | verdrängen 挤开 + -ung；Korridor 走廊、带状区域                                                 | S·338–339             |
+| A   | die Verbreiterung                                          | 扩大线状符号宽度，以保证可见或突出其重要性     | ver- + breit 宽 + -er- + -ung；如道路符号增宽                                                  | S·336；S·338           |
+| A   | die Hervorhebung                                           | 通过大小、颜色等突出重要地理对象的综合操作     | hervor- 向前、显出 + heben 提起 + -ung                                                       | S·337                 |
+| A   | die Zusammenfassung                                        | 将多个相邻或同类对象合并表达的综合操作       | zusammen 一起 + fassen 收拢 + -ung；此处不指写摘要                                                | S·339                 |
+| A   | die Linienvereinfachung / die Linienglättung               | 减少线的构成点以简化形状／减轻线的尖角与锯齿    | Linie + Vereinfachung 简化／Glättung 平滑；两者目的和操作并不完全相同                                    | S·344–346             |
+| A   | die Polylinie / der Stützpunkt                             | 由多条线段连接的折线／定义几何形状的控制顶点    | poly- 多 + Linie；stützen 支撑 + Punkt                                                    | S·344；K4·31           |
+| A   | die Ausdünnung                                             | 按规则减少点或对象的数量              | aus- 去出 + dünn 稀疏 + -ung；留下较少但有代表性的对象                                                 | S·344                 |
+| B   | der Douglas-Peucker-Algorithmus                            | 依据点到近似线段的偏离程度简化折线的算法      | Douglas、Peucker 为人名 + Algorithmus 算法                                                  | S·335；S·344–345       |
+| B   | der Spline                                                 | 用于构造平滑曲线的一类函数或曲线          | 英语术语，原意与柔性样条有关；不拆成德语词根                                                                | S·344                 |
+| A   | der Ausgangsmaßstab / der Zielmaßstab                      | 综合前的原始比例尺／希望生成的目标比例尺      | Ausgang 起始／Ziel 目标 + Maßstab                                                          | S·341                 |
+| B   | das Auswahlkriterium nach Töpfer                           | 根据原始与目标比例尺估算应保留对象数量的经验准则  | Auswahl 选取 + Kriterium 标准；Töpfer 人名                                                   | S·341                 |
+| A   | die Zeichenvorschrift / der Zeichenschlüssel               | 规定地图符号及制图规则的规范／符号说明体系     | Zeichen 符号 + Vorschrift 规定／Schlüssel 对照、解读规则                                          | S·340                 |
+| A   | regelbasiert / constraint-basiert / agentenbasiert (Adj.)  | 基于规则／约束条件／自主对象代理的         | Regel 规则；英语 constraint 约束；Agent 此处为自主软件对象；+ basiert 基于                                | S·342                 |
+| A   | die Nebenbedingung / die Zwangsbedingung                   | 自动综合过程中必须满足的附加条件或约束       | neben 附加／Zwang 强制 + Bedingung 条件                                                      | S·342                 |
+| B   | die Gebäude-Generalisierung / die Siedlungsgeneralisierung | 建筑物轮廓的综合／聚落整体形态的综合        | Gebäude 建筑／Siedlung 聚落 + Generalisierung；正文也写 Generalisierung von Gebäuden／Siedlungen | S·346–348；S·399；S·403 |
 
 <a id="m12"></a>
 
