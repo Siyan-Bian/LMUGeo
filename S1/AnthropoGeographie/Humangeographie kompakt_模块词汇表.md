@@ -212,79 +212,79 @@
 
 [本模块相关词辨析](#vergleich-03)
 
-| 级别 | 德语词／表达 | 中文简译 | 构词拆解／记忆线索 | 英文对应词／英文构词拆解 | PDF 页 |
-| --- | --- | --- | --- | --- | --- |
-| A | die Periurbanisierung | 城乡过渡带城市化 | peri- 周边 + Urbanisierung 城市化 | **peri-urbanization**<br>peri- 周边 + urban 城市的 + -ize + -ation | 51 |
-| A | die Heterogenisierung | 异质化 | heterogen 异质的 + -isierung | **heterogenization**<br>hetero- 不同 + gen- 类 + -ization 异质化 | 51 |
-| A | die Stigmatisierung | 污名化 | Stigma 污名 → stigmatisieren → -ung | **stigmatization**<br>stigma 污名 → stigmatize + -ation | 69 |
-| A | der Zensus / die Volkszählung | 人口普查（两种说法） | Zensus 为拉丁来源词；Volk 人口 + Zählung 计数。在此基本同义。 | **census / population census**<br>census 整体记忆；population 人口，两个德语词同指普查 | 52–53 |
-| A | die Bevölkerungspyramide | 人口金字塔 | Bevölkerung 人口 + Pyramide 金字塔 | **population pyramid**<br>population 人口 + pyramid 金字塔 | 52–53 |
-| A | die Fertilität | 生育水平 | 词族 fertil 能生育的 + -ität；此处不是土壤肥力 | **fertility**<br>fertile 能生育的 → fertility；-ity 性质／水平 | 52 |
-| A | die Vollerhebung | 全面调查 | voll 全部 + Erhebung 调查 | **complete enumeration**<br>complete 全面的；enumerate 逐一列举 → enumeration | 53 |
-| A | der Mikrozensus | 微型人口调查（抽样） | mikro- 小规模 + Zensus 普查 | **microcensus**<br>micro- 小 + census 调查；德国此项为抽样调查 | 53 |
-| A | die Bevölkerungsfortschreibung | 人口滚动推算 | Bevölkerung 人口 + Fortschreibung 持续更新 | **population updating / postcensal population estimates**<br>update 更新 + -ing；post- 普查之后 + censal 普查的；estimate 估计 | 54 |
-| A | das Melderegister | 居民登记簿 | melden 申报 + Register 登记册 | **population register**<br>population 人口 + register 登记簿 | 54 |
-| A | die Gesamtfruchtbarkeitsrate | 总和生育率 | gesamt 总体 + Fruchtbarkeit 生育能力 + Rate 比率 | **total fertility rate**<br>total 总的；fertile 能生育的 → fertility；rate 率 | 54 |
-| A | das Bestandserhaltungsniveau | 更替水平 | Bestand 现有总量 + Erhaltung 维持 + Niveau 水平 | **replacement level**<br>re- 再 + place 替代 + -ment；level 水平 | 54 |
-| A | die Sterbeziffer | 死亡率 | sterben 死亡 + Ziffer 数值／率 | **death rate**<br>death 死亡 + rate 率 | 54 |
-| A | die Säuglingssterbeziffer | 婴儿死亡率 | Säugling 婴儿 + Sterbeziffer 死亡率 | **infant mortality rate**<br>infant 婴儿；mortal 会死亡的 + -ity；rate 率 | 54 |
-| A | die Periodensterbetafel | 时期生命表 | Periode 时期 + sterben 死亡 + Tafel 表 | **period life table**<br>period 时期 + life 生命 + table 表 | 54 |
-| A | die Kohorte | 队列／同期群 | 外来词，整体记忆；常见 Geburtskohorte 出生队列 | **cohort**<br>整体记忆；此处为同期群 | 54 |
-| A | die Längsschnittbetrachtung / die Querschnittsanalyse | 纵向观察／横截面分析 | längs 纵向／quer 横向 + Schnitt 切面；加 Betrachtung／Analyse | **longitudinal observation / cross-sectional analysis**<br>longitudinal 纵向的；observe 观察 → observation；cross 横 + section 截面 + -al；analysis 分析 | 54 |
-| A | die natürliche Bevölkerungsbewegung | 人口自然变动 | natürlich 此处指人口自然变动 + Bevölkerung + Bewegung | **natural population change**<br>natural 自然的 + population 人口 + change 变化 | 55 |
-| B | die Kontrazeptiva (Pl.) | 避孕药具 | kontra- 抵抗；与 Kontrazeption 避孕同词族 | **contraceptives**<br>contra- 阻止 + cept- 受孕 + -ive + -s；词族 contraception 避孕 | 55 |
-| A | die Nettozuwanderung | 净迁入 | netto 净值 + Zuwanderung 迁入 | **net immigration**<br>net 净额；im- 进入 + migration 迁移 | 55 |
-| A | die Wanderungsbilanz | 迁移收支差额 | Wanderung 人口迁移 + Bilanz 收支表／差额 | **migration balance**<br>migrate 迁移 → migration；balance 收支差额 | 55 |
-| A | die Kontextualität | 情境性 | Kontext 情境 + -ualität 性质 | **contextuality**<br>context 语境／情境 + -ual + -ity | 56 |
-| A | die Praxistheorie | 实践理论 | Praxis 实践 + Theorie 理论 | **practice theory**<br>practice 实践 + theory 理论 | 56 |
-| A | die Singularisierung | 单人家庭化 | singulär 单个的 + -isierung | **growth of one-person households**<br>growth 增长；one 一 + person 人；house 家 + hold（household 整体记“家庭”）；描述性译法 | 56 |
-| B | die Überhangbevölkerung / surplus populations | “剩余人口”（批判性概念） | Überhang 超出／剩余 + Bevölkerung；此处是批判性分类概念 | **surplus population**<br>surplus 剩余 + population 人口 | 57 |
-| A | das Rescaling | 尺度重组 | 英语 re- 重新 + scale 尺度 + -ing | **rescaling**<br>re- 重新 + scale 尺度 + -ing | 57 |
-| A | das Lohndifferenzial | 工资差额 | Lohn 工资 + Differenzial 差额 | **wage differential**<br>wage 工资；differ 不同 → differential 差额 | 58 |
-| A | der duale Arbeitsmarkt | 二元劳动市场 | dual 二元的 + Arbeit 劳动 + Markt 市场 | **dual labor market**<br>dual 二元 + labor 劳动 + market 市场 | 58 |
-| A | die Push-pull-Faktoren (Pl.) | 推拉因素 | 英语 push 推 + pull 拉 + Faktoren 因素 | **push-pull factors**<br>push 推 + pull 拉；factor 因素 + -s | 58 |
-| A | die Wert-Erwartungs-These | 价值—期望假说 | Wert 价值 + Erwartung 预期 + These 命题 | **value-expectancy hypothesis**<br>value 价值；expect 期待 + -ancy；hypothesis 假说 | 58 |
-| A | die Transitmigration | 过境迁移 | Transit 过境 + Migration 迁移 | **transit migration**<br>transit 过境 + migration 迁移 | 58 |
-| B | die Segmentationstheorie | 劳动市场分割理论 | Segment 部分／分段 + -ation + Theorie | **labor market segmentation theory**<br>segment 分割 + -ation；labor 劳动 + market 市场 + theory 理论 | 59 |
-| A | irregulär (Adj.) | 不符合入境或居留规定的 | ir- 否定 + regulär 合乎规则的 | **irregular**<br>ir- 不 + regular 合乎规则的；移民身份语境译“不合规定的” | 59 |
-| A | der Aufenthaltsstatus | 居留身份 | Aufenthalt 停留 + Status 身份状态 | **residence status**<br>reside 居留 + -ence；status 身份 | 59 |
-| A | der demographische Übergang | 人口转变 | demo- 人口 + -graphisch；Übergang 转变 | **demographic transition**<br>demo- 人口 + graph- 描述 + -ic；transition 转变 | 59–60 |
-| A | die Fertilitätstransformation | 生育转变 | Fertilität 生育水平 + Transformation 转型 | **fertility transition**<br>fertile 能生育的 → fertility；transition 转变 | 60 |
-| A | der epidemiologische Übergang | 流行病学转变 | Epidemiologie 流行病学 + Übergang 转变 | **epidemiological transition**<br>epidemiology 流行病学 → epidemiological（epi- 在……之中 + dem- 人群）；transition 转变 | 61 |
-| A | die Mortalitätstransformation | 死亡转变 | Mortalität 死亡水平 + Transformation 转型 | **mortality transition**<br>mortal 会死亡的 + -ity；transition 转变 | 61 |
-| A | das kollektive Altern | 人口整体老龄化 | kollektiv 集体的 + Altern 变老 | **population aging**<br>population 人口；age 变老 + -ing | 61 |
-| B | die Aufenthaltsgestattung | 庇护程序期间准予停留 | Aufenthalt 停留 + gestatten 准许 + -ung | **permission to remain pending an asylum decision**<br>permit 准许 → permission；remain 停留；pending 等待期间；asylum 庇护 + decision 决定 | 62 |
-| B | die Duldung | 暂缓遣返 | dulden 容忍 → -ung；书中移民身份术语 | **temporary suspension of deportation**<br>temporary 暂时的；suspend 暂停 → suspension；deport 遣返 + -ation | 62 |
-| A | die Ruhesitzwanderung | 退休迁移 | Ruhesitz 退休居所 + Wanderung 迁移 | **retirement migration**<br>retire 退休 + -ment；migration 迁移 | 63 |
-| A | die Familienzusammenführung | 家庭团聚 | Familie 家庭 + zusammen 一起 + Führung 引到一起 | **family reunification**<br>family 家庭；re- 再 + unify 统一 → reunification 团聚 | 63 |
-| A | der Nomadismus | 游牧制 | Nomade 游牧者 + -ismus 生活方式 | **nomadism**<br>nomad 游牧者 + -ism 制度／生活方式 | 63 |
-| A | die Anwerbevereinbarung / der Anwerbestopp | 劳工招募协议／停止招募 | anwerben 招募 + Vereinbarung 协议／Stopp 停止 | **recruitment agreement / recruitment ban**<br>recruit 招募 + -ment；agree 同意 + -ment；ban 禁止 | 64 |
-| A | der Außenwanderungssaldo | 国际迁移净额 | außen 对外 + Wanderung 迁移 + Saldo 差额 | **net international migration**<br>net 净额；inter- 国家之间 + national；migration 迁移 | 64 |
-| A | die Remigration | 回迁 | re- 返回 + Migration 迁移 | **return migration**<br>return 返回 + migration 迁移 | 65 |
-| A | die Kettenmigration | 链式迁移 | Kette 链条 + Migration 迁移 | **chain migration**<br>chain 链条 + migration 迁移 | 65 |
-| A | der Transnationalismus | 跨国主义 | trans- 跨越 + national 国家／民族的 + -ismus | **transnationalism**<br>trans- 跨越 + national 国家的 + -ism | 65 |
-| A | das narrative Interview | 叙事访谈 | narrativ 叙述的 + Interview 访谈 | **narrative interview**<br>narrate 叙述 → narrative；interview 访谈 | 65 |
-| A | die Etappenwanderung | 阶段性迁移 | Etappe 阶段／一站 + Wanderung 迁移 | **step migration**<br>step 阶段 + migration 迁移 | 66 |
-| A | der Binnenvertriebene / der Binnenflüchtling | 境内流离失所者 | binnen- 内部 + Vertriebener 被迫离开者／Flüchtling 难民 | **internally displaced person (IDP)**<br>internal 境内的 + -ly；displace 使离开原居地 + -ed；person 人 | 66–67 |
-| B | der Konventionsflüchtling / der Kontingentflüchtling | 公约难民／配额难民 | Konvention 公约／Kontingent 配额 + Flüchtling | **Convention refugee / quota refugee**<br>Convention 公约／quota 配额；refuge 庇护 + -ee 人 | 66 |
-| B | die Drittstaatenregelung | 第三国规则 | dritt 第三 + Staat 国家 + Regelung 规定 | **third-country rule**<br>third 第三 + country 国家 + rule 规则 | 67 |
-| A | die Zwangsumsiedlung | 强制迁居 | Zwang 强制 + um-siedeln 迁居 + -ung | **forced resettlement**<br>force 强制 + -ed；re- 重新 + settle 安置 + -ment | 68 |
-| A | die Unversehrtheit | 人身完整性 | un- 否定 + versehrt 受伤害的 + -heit | **bodily integrity**<br>body 身体 → bodily；integrity 完整性，整体记忆 | 68 |
-| A | die Freizügigkeit | 自由迁徙权 | frei 自由 + ziehen 迁移的词族；整体记法律含义 | **freedom of movement**<br>free 自由 + -dom 状态；move 迁移 + -ment | 69 |
-| A | die Translokalität | 跨地方联系 | trans- 跨越 + lokal 地方的 + -ität | **translocality**<br>trans- 跨越 + local 地方的 + -ity | 69 |
-| A | die Multilokalität | 多地生活 | multi- 多 + lokal 地方的 + -ität | **multilocality**<br>multi- 多 + local 地方的 + -ity | 69 |
-| A | die Rimessen (Pl.) | 侨汇 | 外来术语，整体记忆；英语 remittances | **remittances**<br>remit 汇款 + -ance + -s | 69 |
-| B | alternierend (Adj.) | 交替的 | alternieren 交替 + -end | **alternating**<br>alternate 交替 + -ing | 70 |
-| B | das Dezil | 十分位数／十分位组 | dezi- 十分之一；此处看统计分组 | **decile**<br>deci- 十分之一 + -ile 分位数词尾 | 70 |
-| A | residenziell (Adj.) | 居住的 | Residenz 居所 + -iell | **residential**<br>residence 居住 → residential；-ial ……的 | 71 |
-| A | die Diaspora | 散居群体／离散社群 | 外来词，整体记忆；不等同于任意海外人口 | **diaspora**<br>词源 dia- 分散 + spor- 播种；完整词整体记“离散社群” | 71 |
-| B | reziprok (Adj.) | 互惠的 | 外来词，整体记忆；词族 Reziprozität 互惠性 | **reciprocal**<br>整体记忆；词族 reciprocity 互惠 | 72 |
-| B | transient (Adj.) | 暂时性的／过渡性的 | 词族 Transit 过境；此处不指长期稳定居住 | **transient**<br>整体记忆；词族 transience 暂时性 | 72–73 |
-| A | die Zwischennutzung | 临时利用 | zwischen 其间 + Nutzung 利用 | **temporary use**<br>temporary 临时的 + use 利用 | 73 |
-| A | die Brachfläche | 闲置地 | brach 闲置的 + Fläche 地块 | **vacant land**<br>vacant 空置的 + land 土地 | 73 |
-| A | pronatalistisch / antinatalistisch (Adj.) | 鼓励生育的／抑制生育的 | pro- 支持／anti- 反对 + natal- 出生 + -istisch | **pronatalist / antinatalist**<br>pro- 支持／anti- 反对 + natal 出生的 + -ist | 74 |
-| B | die Zwangssterilisation | 强制绝育 | Zwang 强制 + Sterilisation 绝育；历史人口政策语境 | **forced sterilization**<br>force 强制 + -ed；sterile 不育的 + -ize + -ation | 74 |
-| B | eugenisch (Adj.) | 优生学的 | 词族 Eugenik 优生学；作为历史术语识别 | **eugenic**<br>eu- 良好 + gen- 出生／遗传 + -ic；历史理论术语 | 74 |
+| 级别  | 德语词／表达                                                | 中文简译          | 构词拆解／记忆线索                                           | 英文对应词／英文构词拆解                                                                                                                                | PDF 页 |
+| --- | ----------------------------------------------------- | ------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| A   | die Periurbanisierung                                 | 城乡过渡带城市化      | peri- 周边 + Urbanisierung 城市化                        | **peri-urbanization**<br>peri- 周边 + urban 城市的 + -ize + -ation                                                                               | 51    |
+| A   | die Heterogenisierung                                 | 异质化           | heterogen 异质的 + -isierung                           | **heterogenization**<br>hetero- 不同 + gen- 类 + -ization 异质化                                                                                  | 51    |
+| A   | die Stigmatisierung                                   | 污名化           | Stigma 污名 → stigmatisieren → -ung                   | **stigmatization**<br>stigma 污名 → stigmatize + -ation                                                                                       | 69    |
+| A   | der Zensus / die Volkszählung                         | 人口普查（两种说法）    | Zensus 为拉丁来源词；Volk 人口 + Zählung 计数。在此基本同义。          | **census / population census**<br>census 整体记忆；population 人口，两个德语词同指普查                                                                       | 52–53 |
+| A   | die Bevölkerungspyramide                              | 人口金字塔         | Bevölkerung 人口 + Pyramide 金字塔                       | **population pyramid**<br>population 人口 + pyramid 金字塔                                                                                       | 52–53 |
+| A   | die Fertilität                                        | 生育水平          | 词族 fertil 能生育的 + -ität；此处不是土壤肥力                     | **fertility**<br>fertile 能生育的 → fertility；-ity 性质／水平                                                                                        | 52    |
+| A   | die Vollerhebung                                      | 全面调查          | voll 全部 + Erhebung 调查                               | **complete enumeration**<br>complete 全面的；enumerate 逐一列举 → enumeration                                                                       | 53    |
+| A   | der Mikrozensus                                       | 微型人口调查（抽样）    | mikro- 小规模 + Zensus 普查                              | **microcensus**<br>micro- 小 + census 调查；德国此项为抽样调查                                                                                           | 53    |
+| A   | die Bevölkerungsfortschreibung                        | 人口滚动推算        | Bevölkerung 人口 + Fortschreibung 持续更新                | **population updating / postcensal population estimates**<br>update 更新 + -ing；post- 普查之后 + censal 普查的；estimate 估计                           | 54    |
+| A   | das Melderegister                                     | 居民登记簿         | melden 申报 + Register 登记册                            | **population register**<br>population 人口 + register 登记簿                                                                                     | 54    |
+| A   | die Gesamtfruchtbarkeitsrate                          | 总和生育率         | gesamt 总体 + Fruchtbarkeit 生育能力 + Rate 比率            | **total fertility rate**<br>total 总的；fertile 能生育的 → fertility；rate 率                                                                        | 54    |
+| A   | das Bestandserhaltungsniveau                          | 更替水平          | Bestand 现有总量 + Erhaltung 维持 + Niveau 水平             | **replacement level**<br>re- 再 + place 替代 + -ment；level 水平                                                                                  | 54    |
+| A   | die Sterbeziffer                                      | 死亡率           | sterben 死亡 + Ziffer 数值／率                            | **death rate**<br>death 死亡 + rate 率                                                                                                         | 54    |
+| A   | die Säuglingssterbeziffer                             | 婴儿死亡率         | Säugling 婴儿 + Sterbeziffer 死亡率                      | **infant mortality rate**<br>infant 婴儿；mortal 会死亡的 + -ity；rate 率                                                                            | 54    |
+| A   | die Periodensterbetafel                               | 时期生命表         | Periode 时期 + sterben 死亡 + Tafel 表                   | **period life table**<br>period 时期 + life 生命 + table 表                                                                                      | 54    |
+| A   | die Kohorte                                           | 队列／同期群        | 外来词，整体记忆；常见 Geburtskohorte 出生队列                     | **cohort**<br>整体记忆；此处为同期群                                                                                                                   | 54    |
+| A   | die Längsschnittbetrachtung / die Querschnittsanalyse | 纵向观察／横截面分析    | längs 纵向／quer 横向 + Schnitt 切面；加 Betrachtung／Analyse | **longitudinal observation / cross-sectional analysis**<br>longitudinal 纵向的；observe 观察 → observation；cross 横 + section 截面 + -al；analysis 分析 | 54    |
+| A   | die natürliche Bevölkerungsbewegung                   | 人口自然变动        | natürlich 此处指人口自然变动 + Bevölkerung + Bewegung        | **natural population change**<br>natural 自然的 + population 人口 + change 变化                                                                    | 55    |
+| B   | die Kontrazeptiva (Pl.)                               | 避孕药具          | kontra- 抵抗；与 Kontrazeption 避孕同词族                    | **contraceptives**<br>contra- 阻止 + cept- 受孕 + -ive + -s；词族 contraception 避孕                                                                 | 55    |
+| A   | die Nettozuwanderung                                  | 净迁入           | netto 净值 + Zuwanderung 迁入                           | **net immigration**<br>net 净额；im- 进入 + migration 迁移                                                                                         | 55    |
+| A   | die Wanderungsbilanz                                  | 迁移收支差额        | Wanderung 人口迁移 + Bilanz 收支表／差额                      | **migration balance**<br>migrate 迁移 → migration；balance 收支差额                                                                                | 55    |
+| A   | die Kontextualität                                    | 情境性           | Kontext 情境 + -ualität 性质                            | **contextuality**<br>context 语境／情境 + -ual + -ity                                                                                            | 56    |
+| A   | die Praxistheorie                                     | 实践理论          | Praxis 实践 + Theorie 理论                              | **practice theory**<br>practice 实践 + theory 理论                                                                                              | 56    |
+| A   | die Singularisierung                                  | 单人家庭化         | singulär 单个的 + -isierung                            | **growth of one-person households**<br>growth 增长；one 一 + person 人；house 家 + hold（household 整体记“家庭”）；描述性译法                                   | 56    |
+| B   | die Überhangbevölkerung / surplus populations         | “剩余人口”（批判性概念） | Überhang 超出／剩余 + Bevölkerung；此处是批判性分类概念             | **surplus population**<br>surplus 剩余 + population 人口                                                                                        | 57    |
+| A   | das Rescaling                                         | 尺度重组          | 英语 re- 重新 + scale 尺度 + -ing                         | **rescaling**<br>re- 重新 + scale 尺度 + -ing                                                                                                   | 57    |
+| A   | das Lohndifferenzial                                  | 工资差额          | Lohn 工资 + Differenzial 差额                           | **wage differential**<br>wage 工资；differ 不同 → differential 差额                                                                                | 58    |
+| A   | der duale Arbeitsmarkt                                | 二元劳动市场        | dual 二元的 + Arbeit 劳动 + Markt 市场                     | **dual labor market**<br>dual 二元 + labor 劳动 + market 市场                                                                                     | 58    |
+| A   | die Push-pull-Faktoren (Pl.)                          | 推拉因素          | 英语 push 推 + pull 拉 + Faktoren 因素                    | **push-pull factors**<br>push 推 + pull 拉；factor 因素 + -s                                                                                     | 58    |
+| A   | die Wert-Erwartungs-These                             | 价值—期望假说       | Wert 价值 + Erwartung 预期 + These 命题                   | **value-expectancy hypothesis**<br>value 价值；expect 期待 + -ancy；hypothesis 假说                                                                 | 58    |
+| A   | die Transitmigration                                  | 过境迁移          | Transit 过境 + Migration 迁移                           | **transit migration**<br>transit 过境 + migration 迁移                                                                                          | 58    |
+| B   | die Segmentationstheorie                              | 劳动市场分割理论      | Segment 部分／分段 + -ation + Theorie                    | **labor market segmentation theory**<br>segment 分割 + -ation；labor 劳动 + market 市场 + theory 理论                                                | 59    |
+| A   | irregulär (Adj.)                                      | 不符合入境或居留规定的   | ir- 否定 + regulär 合乎规则的                              | **irregular**<br>ir- 不 + regular 合乎规则的；移民身份语境译“不合规定的”                                                                                       | 59    |
+| A   | der Aufenthaltsstatus                                 | 居留身份          | Aufenthalt 停留 + Status 身份状态                         | **residence status**<br>reside 居留 + -ence；status 身份                                                                                         | 59    |
+| A   | der demographische Übergang                           | 人口转变          | demo- 人口 + -graphisch；Übergang 转变                   | **demographic transition**<br>demo- 人口 + graph- 描述 + -ic；transition 转变                                                                      | 59–60 |
+| A   | die Fertilitätstransformation                         | 生育转变          | Fertilität 生育水平 + Transformation 转型                 | **fertility transition**<br>fertile 能生育的 → fertility；transition 转变                                                                          | 60    |
+| A   | der epidemiologische Übergang                         | 流行病学转变        | Epidemiologie 流行病学 + Übergang 转变                    | **epidemiological transition**<br>epidemiology 流行病学 → epidemiological（epi- 在……之中 + dem- 人群）；transition 转变                                   | 61    |
+| A   | die Mortalitätstransformation                         | 死亡转变          | Mortalität 死亡水平 + Transformation 转型                 | **mortality transition**<br>mortal 会死亡的 + -ity；transition 转变                                                                                | 61    |
+| A   | das kollektive Altern                                 | 人口整体老龄化       | kollektiv 集体的 + Altern 变老                           | **population aging**<br>population 人口；age 变老 + -ing                                                                                         | 61    |
+| B   | die Aufenthaltsgestattung                             | 庇护程序期间准予停留    | Aufenthalt 停留 + gestatten 准许 + -ung                 | **permission to remain pending an asylum decision**<br>permit 准许 → permission；remain 停留；pending 等待期间；asylum 庇护 + decision 决定                | 62    |
+| B   | die Duldung                                           | 暂缓遣返          | dulden 容忍 → -ung；书中移民身份术语                           | **temporary suspension of deportation**<br>temporary 暂时的；suspend 暂停 → suspension；deport 遣返 + -ation                                         | 62    |
+| A   | die Ruhesitzwanderung                                 | 退休迁移          | Ruhesitz 退休居所 + Wanderung 迁移                        | **retirement migration**<br>retire 退休 + -ment；migration 迁移                                                                                  | 63    |
+| A   | die Familienzusammenführung                           | 家庭团聚          | Familie 家庭 + zusammen 一起 + Führung 引到一起             | **family reunification**<br>family 家庭；re- 再 + unify 统一 → reunification 团聚                                                                   | 63    |
+| A   | der Nomadismus                                        | 游牧制           | Nomade 游牧者 + -ismus 生活方式                            | **nomadism**<br>nomad 游牧者 + -ism 制度／生活方式                                                                                                    | 63    |
+| A   | die Anwerbevereinbarung / der Anwerbestopp            | 劳工招募协议／停止招募   | anwerben 招募 + Vereinbarung 协议／Stopp 停止              | **recruitment agreement / recruitment ban**<br>recruit 招募 + -ment；agree 同意 + -ment；ban 禁止                                                   | 64    |
+| A   | der Außenwanderungssaldo                              | 国际迁移净额        | außen 对外 + Wanderung 迁移 + Saldo 差额                  | **net international migration**<br>net 净额；inter- 国家之间 + national；migration 迁移                                                               | 64    |
+| A   | die Remigration                                       | 回迁            | re- 返回 + Migration 迁移                               | **return migration**<br>return 返回 + migration 迁移                                                                                            | 65    |
+| A   | die Kettenmigration                                   | 链式迁移          | Kette 链条 + Migration 迁移                             | **chain migration**<br>chain 链条 + migration 迁移                                                                                              | 65    |
+| A   | der Transnationalismus                                | 跨国主义          | trans- 跨越 + national 国家／民族的 + -ismus                | **transnationalism**<br>trans- 跨越 + national 国家的 + -ism                                                                                     | 65    |
+| A   | das narrative Interview                               | 叙事访谈          | narrativ 叙述的 + Interview 访谈                         | **narrative interview**<br>narrate 叙述 → narrative；interview 访谈                                                                              | 65    |
+| A   | die Etappenwanderung                                  | 阶段性迁移         | Etappe 阶段／一站 + Wanderung 迁移                         | **step migration**<br>step 阶段 + migration 迁移                                                                                                | 66    |
+| A   | der Binnenvertriebene / der Binnenflüchtling          | 境内流离失所者       | binnen- 内部 + Vertriebener 被迫离开者／Flüchtling 难民       | **internally displaced person (IDP)**<br>internal 境内的 + -ly；displace 使离开原居地 + -ed；person 人                                                  | 66–67 |
+| B   | der Konventionsflüchtling / der Kontingentflüchtling  | 公约难民／配额难民     | Konvention 公约／Kontingent 配额 + Flüchtling            | **Convention refugee / quota refugee**<br>Convention 公约／quota 配额；refuge 庇护 + -ee 人                                                          | 66    |
+| B   | die Drittstaatenregelung                              | 第三国规则         | dritt 第三 + Staat 国家 + Regelung 规定                   | **third-country rule**<br>third 第三 + country 国家 + rule 规则                                                                                   | 67    |
+| A   | die Zwangsumsiedlung                                  | 强制迁居          | Zwang 强制 + um-siedeln 迁居 + -ung                     | **forced resettlement**<br>force 强制 + -ed；re- 重新 + settle 安置 + -ment                                                                        | 68    |
+| A   | die Unversehrtheit                                    | 人身完整性         | un- 否定 + versehrt 受伤害的 + -heit                      | **bodily integrity**<br>body 身体 → bodily；integrity 完整性，整体记忆                                                                                 | 68    |
+| A   | die Freizügigkeit                                     | 自由迁徙权         | frei 自由 + ziehen 迁移的词族；整体记法律含义                      | **freedom of movement**<br>free 自由 + -dom 状态；move 迁移 + -ment                                                                                | 69    |
+| A   | die Translokalität                                    | 跨地方联系         | trans- 跨越 + lokal 地方的 + -ität                       | **translocality**<br>trans- 跨越 + local 地方的 + -ity                                                                                           | 69    |
+| A   | die Multilokalität                                    | 多地生活          | multi- 多 + lokal 地方的 + -ität                        | **multilocality**<br>multi- 多 + local 地方的 + -ity                                                                                            | 69    |
+| A   | die Rimessen (Pl.)                                    | 侨汇            | 外来术语，整体记忆；英语 remittances                            | **remittances**<br>remit 汇款 + -ance + -s                                                                                                    | 69    |
+| B   | alternierend (Adj.)                                   | 交替的           | alternieren 交替 + -end                               | **alternating**<br>alternate 交替 + -ing                                                                                                      | 70    |
+| B   | das Dezil                                             | 十分位数／十分位组     | dezi- 十分之一；此处看统计分组                                  | **decile**<br>deci- 十分之一 + -ile 分位数词尾                                                                                                       | 70    |
+| A   | residenziell (Adj.)                                   | 居住的           | Residenz 居所 + -iell                                 | **residential**<br>residence 居住 → residential；-ial ……的                                                                                      | 71    |
+| A   | die Diaspora                                          | 散居群体／离散社群     | 外来词，整体记忆；不等同于任意海外人口                                 | **diaspora**<br>词源 dia- 分散 + spor- 播种；完整词整体记“离散社群”                                                                                          | 71    |
+| B   | reziprok (Adj.)                                       | 互惠的           | 外来词，整体记忆；词族 Reziprozität 互惠性                        | **reciprocal**<br>整体记忆；词族 reciprocity 互惠                                                                                                    | 72    |
+| B   | transient (Adj.)                                      | 暂时性的／过渡性的     | 词族 Transit 过境；此处不指长期稳定居住                            | **transient**<br>整体记忆；词族 transience 暂时性                                                                                                     | 72–73 |
+| A   | die Zwischennutzung                                   | 临时利用          | zwischen 其间 + Nutzung 利用                            | **temporary use**<br>temporary 临时的 + use 利用                                                                                                 | 73    |
+| A   | die Brachfläche                                       | 闲置地           | brach 闲置的 + Fläche 地块                               | **vacant land**<br>vacant 空置的 + land 土地                                                                                                     | 73    |
+| A   | pronatalistisch / antinatalistisch (Adj.)             | 鼓励生育的／抑制生育的   | pro- 支持／anti- 反对 + natal- 出生 + -istisch             | **pronatalist / antinatalist**<br>pro- 支持／anti- 反对 + natal 出生的 + -ist                                                                       | 74    |
+| B   | die Zwangssterilisation                               | 强制绝育          | Zwang 强制 + Sterilisation 绝育；历史人口政策语境                | **forced sterilization**<br>force 强制 + -ed；sterile 不育的 + -ize + -ation                                                                      | 74    |
+| B   | eugenisch (Adj.)                                      | 优生学的          | 词族 Eugenik 优生学；作为历史术语识别                             | **eugenic**<br>eu- 良好 + gen- 出生／遗传 + -ic；历史理论术语                                                                                             | 74    |
 
 
 <a id="vergleich-03"></a>
@@ -767,6 +767,9 @@
 
 ## 英文列补充说明
 
-- 全部 **491 个学习条目**已补英文及构词提示，原有中文、德语拆解、页码和相关词辨析保留。英文拆解用于记忆，不等同于完整词源考证。
+- 全部 **491    **已补英文及构词提示，原有中文、德语拆解、页码和相关词辨析保留。英文拆解用于记忆，不等同于完整词源考证。
 - **Aufenthaltsgestattung / Duldung** 的英文名称参考[柏林移民局双语说明](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1321940.php)，本次只补词汇对应，不更新教材中的制度说明。
 - **exchange entitlement mapping** 参考[作者所在大学的著作记录](https://researchportal.bath.ac.uk/en/publications/exchange-entitlement-mapping-theory-and-evidence/)；**perspectival incrementalism** 的用法可见[规划理论研究论文](https://www.tandfonline.com/doi/full/10.1080/02513625.2026.2665537)。
+
+
+	 zzzddd DDDD ABCDEFGHIJKLMNOPQRSTUVWXYZ12345111JKMKKKK
